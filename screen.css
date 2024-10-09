@@ -1,0 +1,37 @@
+      
+      h1 {
+            font-size: 2em;
+            color:black;
+            font-family: "Arial",
+                fantasy;
+            background-color: lightskyblue;
+            padding: 10px;
+            margin: 20px;
+            border: 4px solid ;
+     border-color: cornflowerblue;
+            text-align: center;
+            border-radius: 10px;
+        }
+       table, th {
+        padding: 20px;
+           text-align: left;
+    
+        } td { 
+}
+
+        .quote { font-kerning: none;
+            font-family: "Arial";
+            font-style: italic;
+        font-weight: 10px;
+        }   
+        #mynav {
+            background-color: lightcyan;
+        }
+h3 {
+    font-family: "Arial";
+   text-decoration: underline;
+}
+
+.page-font {
+    font-family: "Arial";
+}
